@@ -1,3 +1,3 @@
 # whyme
 
-Click here to visit my site http://whyme.exo/
+Click here to visit my site https://elletotheey.github.io/whyme/
